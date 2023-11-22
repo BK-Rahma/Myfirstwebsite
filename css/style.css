@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+    font-size:  20px;
+}
+h2{
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.container{
+    display: flex;
+}
